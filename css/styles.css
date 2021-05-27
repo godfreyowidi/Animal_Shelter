@@ -1,0 +1,32 @@
+body {
+  color: darkblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.animals {
+  margin: auto;
+  padding: 20px;
+  columns: 80px 3;
+}
+
+h1, h2 {
+  background-color: rgb(80, 37, 80);
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  color: bisque;
+}
+
+h3 {
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.column2 img {
+  height: min-content;
+}
+
+hr {
+  margin: auto;
+  width: 50%;
+}
